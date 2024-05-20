@@ -1,4 +1,4 @@
-ToggleDisplay allows you to select a display to enable/disable from a list.
+DisplayToggle allows you to select a display to enable/disable from a list.
 
 You will first need to select a display before being able to toggle it On/Off by right-clicking the tray icon and go into Settings.
 
